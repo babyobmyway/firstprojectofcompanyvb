@@ -36,4 +36,5 @@ Here is a working live demo :
 - [Firebase](http://firebase.google.com/)
 - [Webpack 5](https://webpack.js.org/)
 - [ThreeJS](https://threejs.org/)
+- [SoundcloudWidget](https://developers.soundcloud.com/docs/api/html5-widget)
 - [MUI](https://mui.com/) and [AOS](https://michalsnik.github.io/aos/)
