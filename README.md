@@ -15,7 +15,7 @@ Here is a working live demo :
 
 ### Landing Page
 ![](https://github.com/babyobmyway/firstprojectofcompanyvb/blob/ae15ede9517c9d3edd53abf94912e4c5e157c533/src/assets/images/demo-1.jpg)
-![](https://github.com/babyobmyway/firstprojectofcompanyvb/blob/ae15ede9517c9d3edd53abf94912e4c5e157c533/src/assets/images/demo-2.jpg)
+![](https://github.com/babyobmyway/firstprojectofcompanyvb/blob/e15216edca71ec592033df053a5c3dd227995e21/src/assets/images/demo-2.jpg)
 ![](https://github.com/babyobmyway/firstprojectofcompanyvb/blob/ae15ede9517c9d3edd53abf94912e4c5e157c533/src/assets/images/demo-3.jpg)
 
 
