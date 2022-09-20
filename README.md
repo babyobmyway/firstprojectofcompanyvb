@@ -20,7 +20,7 @@ Here is a working live demo :
 
 
 ### Authorization form
-![](https://github.com/babyobmyway/firstprojectofcompanyvb/blob/ae15ede9517c9d3edd53abf94912e4c5e157c533/src/assets/images/demo-5.jpg)
+![](https://github.com/babyobmyway/firstprojectofcompanyvb/blob/12bbe7395b3fe593c55fa855463dd95cf3c7dec2/src/assets/images/demo-5.jpg)
 
 ### Auction page and chart
 ![](https://github.com/babyobmyway/firstprojectofcompanyvb/blob/ae15ede9517c9d3edd53abf94912e4c5e157c533/src/assets/images/demo-4.jpg)
