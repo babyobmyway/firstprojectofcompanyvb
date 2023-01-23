@@ -14,14 +14,18 @@ import 'firebase/compat/auth'
 import 'firebase/compat/database'
 import { startAt } from 'firebase/database'
 import { startBasicScene, startBasicScene1 } from './three'
+import { messagingSenderId } from './config/config'
 // Main Config firebase, init Firebase
+const conf = require('./config')
+
+
 const firebaseConfig = {
-    apiKey: "AIzaSyChw8y6ebjtDVMc4Bgv__0nAAW_h9b6G3c",
-    authDomain: "vb-database.firebaseapp.com",
-    projectId: "vb-database",
-    storageBucket: "vb-database.appspot.com",
-    messagingSenderId: "996485199307",
-    appId: "1:996485199307:web:dcd76a05c38eeee862324e"
+    apiKey: conf.apiKey,
+    authDomain: conf.authDomain,
+    projectId: conf.projectId,
+    storageBucket: conf.storageBucket,
+    messagingSenderId: conf.messagingSenderId,
+    appId: conf.myAppId
   };
 
 firebase.initializeApp(firebaseConfig)
